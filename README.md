@@ -20,7 +20,7 @@ A simple Vue 3 project using Vite and Axios to fetch and display data from a pub
 ### 1. Clone the repository
 
 ```sh
-git clone https://github.com/your-username/vueaxiosapi.git
+git clone https://github.com/AlfredOfficial/vueaxiosapi.git
 cd vueaxiosapi
 ```
 
