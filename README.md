@@ -70,3 +70,9 @@ vueaxiosapi/
 - Modify `List.css` for custom table styles.
 
 ## License
+
+## Screenshot
+
+The image below shows the application in action. It displays a list of posts fetched from the JSONPlaceholder API, presented in a clean and responsive table format. Each row shows the post's ID, title, and body, demonstrating how data from an external API can be integrated and styled in a Vue 3 project.
+
+![Screenshot of VueAxiosAPI displaying posts in a table](vueAPI.PNG)

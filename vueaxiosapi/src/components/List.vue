@@ -17,7 +17,7 @@ onMounted(async () => {
 
 <template>
     <div>
-        <h2>List Posts</h2>
+        <h2>List Posts from JSON Placeholder</h2>
         <p v-if="error">{{ error }}</p>
         <table v-else>
             <thead>
