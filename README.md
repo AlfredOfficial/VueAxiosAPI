@@ -62,7 +62,7 @@ vueaxiosapi/
 ## Usage
 
 - The main component `List.vue` uses Axios to fetch posts and displays them in a styled table.
-- Styles for the table are in `List.css` and imported into `List.vue`.
+- Styles for the table are in the `List.vue`.
 
 ## Customization
 
